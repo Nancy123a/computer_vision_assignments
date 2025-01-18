@@ -1,0 +1,8 @@
+## Exercise 1
+- K=10 --> Mean error reconstruction=16.15
+- K=75 --> Mean error reconstruction=10.37
+- K=150 --> Mean error reconstruction=9.28
+## Exercise 2
+- 10 feature output --> Mean error reconstruction=24.54
+- 75 feature_output --> Mean error reconsruction=19.35
+- 150 feature output --> Mean error reconstruction=18.71
